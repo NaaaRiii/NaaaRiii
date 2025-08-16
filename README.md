@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="http://qiita.com/NaaaRiii">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/NaaaRiii/posts.svg" />
+  </a>
+  <a href="https://zenn.dev/nari_rina">
+    <img height="20" src="https://badgen.org/img/zenn/nari_rina/articles?style=plastic" />
+  </a>
+</p>
+
