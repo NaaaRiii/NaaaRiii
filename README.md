@@ -43,6 +43,9 @@
 - **Terraform**（インフラをコード管理）
 
 <p align="left">
+  <a href="https://github.com/NaaaRiii">
+    <img height="20" src="https://komarev.com/ghpvc/?username=NaaaRiii" />
+  </a>
   <a href="http://qiita.com/NaaaRiii">
     <img height="20" src="https://qiita-badge.apiapi.app/s/NaaaRiii/posts.svg" />
   </a>
